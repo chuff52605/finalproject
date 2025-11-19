@@ -1,0 +1,4 @@
+"commit" applies changes locally to the computer, it is much like saving something just to the downloads folder on the computer, but not anywhere else.
+"push" applies it to the cloud and will be saved on the GitHub project, this is essentially "uploading" that file for others to see on GitHub.
+"pull" takes the changes from GitHub that were pushed previously and combines with the current work, it essentially merges your local and cloud, note (pull is the action of both fetching and merging.)
+"fetch" will download the changes from GitHub without overriding whatever is stored locally on the computer. It is a way to check whatever work is new but doesn't permanently change files.
